@@ -38,7 +38,23 @@ Tab Bars (modes):
   * Move out
 
 
+## Prerequisites
 
+### Data Sources
+* Data file which contains user accounts and information
+* Data file which contains information for a house 
+
+### External Components
+* SQL data structure
+
+### Similar Applications
+* There are many TO DO applications, like Wunderlist, Evernote, etc...
+* WieBetaaltWat is often used to divide students expenses
+
+### Hardest Challenges
+* I don't know if it's hard to create an application where multiple users can login and share information between accounts. To begin with, I think it's already a challenge to get users to log in and to be able to see their own profile page and user information.
+* The code behind making a cleaning schedule or setting up a beer system is for later.
+* In the end, this app should be easier to use then drawing a cleaning schedule with pen and paper and pin it up on the refrigerator.
 
 
 
